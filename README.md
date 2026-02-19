@@ -1,3 +1,10 @@
 # APLIKACJA W REACT JS
 
-![Podgląd aplikacji](./screenshots/apka.png)
+
+Dostępne są dwa tryby aplikacji:
+
+Light mode:
+![Light mode](./screenshots/Lightmodeapp.png)
+
+Dark mode:
+![Dark mode](./screenshots/Darkmodeapp.png)
