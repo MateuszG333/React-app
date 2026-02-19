@@ -4,7 +4,7 @@ import { useContext, useEffect, useState } from "react";
 import { ThemeContext } from "./context/ThemeContext";
 
 function App() {
-  const name = "Adrian";
+  const name = "Mateusz";
   const { theme } = useContext(ThemeContext);
   const [news, setNews] = useState([]);
 
